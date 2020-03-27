@@ -1,5 +1,5 @@
 <h3 align="center">
-    <img alt="Be The Hero" src=".github/logo.svg" width="190px" />
+    <img alt="Be The Hero" src=".github/logo.svg" width="220px" />
 </h3>
 
 <br>
@@ -41,9 +41,12 @@ Tecnologias utilizadas na aplicação
 - [React Native](https://facebook.github.io/react-native/)
 - [Expo](https://expo.io/)
 
+<br>
 
---- 
+___
 
+<br> 
 <h5 align="center">
   :rocket: Semana OmniStack 11.0 desenvolvida por Julianne Volotão.
 </h5>
+<br>
