@@ -1,9 +1,11 @@
-<h3 align="center">
+<h2 align="center">
     <img alt="Be The Hero" src=".github/logo.svg" width="230px" />
-</h3>
+</h2>
 
 <br>
-
+<p>
+    <img alt="Aplicação Be The Hero mobile e desktop" src=".github/banner.jpg" >
+</p>
 <h4 align="center">
   🚀 Semana OmniStack 11.0
 </h4>
