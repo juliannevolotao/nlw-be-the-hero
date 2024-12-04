@@ -50,7 +50,7 @@ Tecnologias utilizadas na aplicação
 
 ## :arrow_forward: Iniciando a aplicação
 
-Clone o repositório para sua máquina usando o comando `git clone https://github.com/juliannevolotao/be-the-hero.git` no local desejado através do terminal. Em seguida acesse a pasta do projeto com o comando `cd be-the-hero`.
+Clone o repositório para sua máquina usando o comando `git clone https://github.com/juliannevolotao/nlw-be-the-hero.git` no local desejado através do terminal. Em seguida acesse a pasta do projeto com o comando `cd nlw-be-the-hero`.
 
 <br> 
 
